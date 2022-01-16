@@ -12,9 +12,11 @@
   "author": "SEP",
   "license": "ISC",
   "dependencies": {
+    "connect-mongo": "^4.6.0",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "express-session": "^1.17.2",
     "faker": "^5.5.3",
     "mongoose": "^6.1.5",
     "normalizr": "^3.6.1",
